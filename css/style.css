@@ -14,7 +14,7 @@ main {
 height: 100px;
 background-color: #4ea0ff;
 background-image: url(../img/pattern.png);
-background-size: contain;
+
 
 
 }
@@ -74,4 +74,24 @@ thead{
 }
 .colorata {
     background-color: rgb(78, 160, 255, 0.5);
+}
+table {
+    margin-bottom: 20px;
+}
+
+.immagine{
+    color: white;
+    
+}
+.immagine__1 {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 10px;
+}
+
+.immagine__2 {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
 }
