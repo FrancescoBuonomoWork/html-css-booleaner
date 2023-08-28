@@ -4,8 +4,12 @@ colore bg header = azzurro #4ea0ff */
     margin: 0;
     box-sizing: border-box;
     padding: 0;
+   
 }
 
+main {
+    margin: 5px;
+}
 #header__pagina {
 height: 100px;
 background-color: #4ea0ff;
@@ -48,6 +52,10 @@ thead{
     font-weight: 500;
 }
 
+#lista {
+    margin-left: 20px;
+}
+
 #prima__th {
     width: 25%;
     text-align: left;
@@ -57,7 +65,7 @@ thead{
 #seconda__th {
     width: 25%;
     text-align: left;
-    
+   
 }
 #terza__th {
     width: 50%;
