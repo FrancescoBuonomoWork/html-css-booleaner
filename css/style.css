@@ -41,3 +41,28 @@ p {
 .evidenziato {
     background-color: yellow;
 }
+
+thead{
+    background-color: #4ea0ff;
+    color: white;
+    font-weight: 500;
+}
+
+#prima__th {
+    width: 25%;
+    text-align: left;
+    
+}
+
+#seconda__th {
+    width: 25%;
+    text-align: left;
+    
+}
+#terza__th {
+    width: 50%;
+    text-align: left;
+}
+.colorata {
+    background-color: rgb(78, 160, 255, 0.5);
+}
